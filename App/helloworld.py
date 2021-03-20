@@ -1,4 +1,8 @@
 #Sample App Hello World
 
-print('Hello, world!')
-print('New print line!')
+a = "hello, world"
+b = 'new line'
+c = "Project-1-PrintLine"
+print(a)
+print(b)
+print(c)
